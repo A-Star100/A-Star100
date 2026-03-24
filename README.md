@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning a lot of stuff right now :D
 - ⚡ Fun fact: I like Sonic The Hedgehog!
 - 🌎 My website is at [anirudhsevugan.me](https://anirudhsevugan.me)!
-- 📣 I'm also on [YouTube](https://www.youtube.com/@sonicturbo771), [Vimeo](https://vimeo.com/user219057089), and [GitLab](https://gitlab.com/A-Star100)!
+- 📣 I'm also on [YouTube](https://www.youtube.com/@sonicturbo771) and [GitLab](https://gitlab.com/A-Star100)!
 
 
