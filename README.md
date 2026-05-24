@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @A-Star100
+# 👋 Hi, I’m Anirudh
 - 👀 I'm interested in computer science
 - 🎶 I play piano and have won medals and ribbons, competed in festivals, and played at recitals!
 - 🌱 I’m currently learning a lot of stuff right now :D
